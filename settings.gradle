@@ -1,0 +1,2 @@
+rootProject.name = "Mytoilet"
+include ':app'

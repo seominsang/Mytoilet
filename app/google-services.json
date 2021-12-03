@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582577415400",
+    "project_id": "myallplace",
+    "storage_bucket": "myallplace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582577415400:android:353ebaa531ebbc3df9d55d",
+        "android_client_info": {
+          "package_name": "com.fkeo2021.mytoilet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582577415400-kq2gi2htk5779mahvnt3d4ud1fei0mlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDl2u5EMY-r08p1RN3CUBmw6ifMKjnucY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582577415400-kq2gi2htk5779mahvnt3d4ud1fei0mlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
